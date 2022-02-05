@@ -7,7 +7,7 @@ If you know a performance mod that isn't on the list please open an issue and li
 ## Forge mods
 
 
-![image](https://user-images.githubusercontent.com/67533827/152644808-7a8fbf5a-3611-4483-8483-0afafd64e8ba.png) ### [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)
+![image](https://user-images.githubusercontent.com/67533827/152644808-7a8fbf5a-3611-4483-8483-0afafd64e8ba.png) <h2> [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements) </h2>
 My description: Better perfomance of mobs AI
 Versions: 1.7.10, 1.8.9, 1.12, 1.14.4 to 1.18.1
 
