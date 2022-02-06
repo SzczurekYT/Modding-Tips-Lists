@@ -89,6 +89,13 @@ If you know a performance mod that isn't on the list please open an issue and li
 > **Mod description:** "Optimize Minecraft loading performance to be smoother on low end systems and scale better on high end systems."<br/>
 > **Versions:** 1.14.4 to 1.16.5<br/>
 
+> ### [Magnesium](https://www.curseforge.com/minecraft/mc-mods/sodium-reforged)
+> ![image](https://user-images.githubusercontent.com/67533827/152672039-d8c22e1c-34e0-444a-a150-f197e4f750b0.png)
+> **Mod description:** "Magnesium(Formerly Sodium Reforged) is an Unofficial port of CaffeineMC's "Sodium" Mod, Ported from Fabric to Forge."
+> **My description:** Unoffcial forge port of popular fabric performance mod "Sodium"
+> **Versons:** 1.16.5, 1.18 is in beta.
+
+
   
 ## Fabric mods
 I will fill this section when I will have time.
